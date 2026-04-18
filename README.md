@@ -5,15 +5,15 @@ Khóa luận tốt nghiệp - Khoa học Dữ liệu
 Trường Đại học Kinh tế - Kỹ thuật Công nghiệp
 
 ## Cấu trúc thư mục
-#KLTN_HelmetDetection/
-#├── datasets/               # Script xử lý dữ liệu
-#│   ├── crop_dataset.ipynb
-#│   └── data_for_CNN.ipynb
-#├── models/
-#│   ├── Train_FastRCNN.ipynb
-#│   ├── Train_FasterRCNN.ipynb
-#│   └── Evaluate_Models.ipynb
-#└── README.md
+KLTN_HelmetDetection/
+├── datasets/               # Script xử lý dữ liệu
+│   ├── crop_dataset.ipynb
+│   └── data_for_CNN.ipynb
+├── models/
+│   ├── Train_FastRCNN.ipynb
+│   ├── Train_FasterRCNN.ipynb
+│   └── Evaluate_Models.ipynb
+└── README.md
 ## Kết quả
 | Mô hình | mAP@0.5 | Recall | F1-Score |
 |---------|---------|--------|----------|
